@@ -1,4 +1,3 @@
 Git is a distributed version control system.
-Git is free software.
-Git 4
-Git 51
+Git is free software distributed under the GPL.
+Git has a mutable index caled stage.
